@@ -1,0 +1,26 @@
+# Add an entry, where the key represents a slug.
+# Provide at least a `name` value and optionally `image`, `color` and `description`.
+# Markdown is enabled for `description`, however don't use more than one paragraph (enforced by `>`)
+#
+# Example:
+#
+# ~~~
+# mytag:
+#   name: My Tag
+#   description: >
+#     *My Tag* is an example of how to define a custom tag.
+# ~~~
+
+Resume:
+  name: Resume
+  image: /yannleguen.github.io/public/img/brain.jpg
+  color: '#949667'
+  description: >
+    Coming soon ..
+
+Publications:
+  name: Publications
+  image: /yannleguen.github.io/public/img/brain.jpg
+  color: '#949667'
+  description: >
+    List of all my publications.
