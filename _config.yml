@@ -92,8 +92,8 @@ author:
     # stumbleupon:     _username_
     # paypal:          _username_
 
-# Remove to disable Google Anaylics
-google_analytics_id: 'UA-84025722-2'
+# Remove to disable Google Analytics
+google_analytics_id: 'UA-98620513-1'
 
 # Setting a disqus subdomain will enable the comment section
 # disqus:            <username>
