@@ -1,4 +1,13 @@
 ---
-layout: blog
-title: Personal website
+layout: page
+description: >
+  Personal website of Yann
 ---
+
+
+{% comment %}
+  This inserts the "about" photo and text from `_config.yml`.
+{% endcomment %}
+{% include about-short.html author=site.author %}
+
+Yann - 2nd year Phd Student at Neurospin - yann.leguen at cea.fr

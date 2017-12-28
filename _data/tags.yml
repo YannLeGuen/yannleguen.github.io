@@ -13,14 +13,14 @@
 
 Resume:
   name: Resume
-  image: /yannleguen.github.io/public/img/brain.jpg
+  image: /public/img/brain.jpg
   color: '#949667'
   description: >
     Coming soon ..
 
 Publications:
   name: Publications
-  image: /yannleguen.github.io/public/img/brain.jpg
+  image: /public/img/brain.jpg
   color: '#949667'
   description: >
     List of all my publications.
