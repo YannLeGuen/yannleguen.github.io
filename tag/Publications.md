@@ -3,6 +3,8 @@ layout: page
 tag: Publications
 permalink: /publications
 title: Publications
+menu: true
+order: 2
 ---
 
 List of my publications by year:
