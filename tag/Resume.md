@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: resume
 tag: Resume
 permalink: /resume
 title: Resume
 menu: true
+order: 1
 ---
 
-Coming Soon
+{% include resume.html author=site.author %}
