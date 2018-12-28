@@ -23,7 +23,7 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  PhD Student at Neurospin, CEA, University of Paris-Saclay, France
+  Postdoctoral Reseach Fellow, Neurology and Neurological Sciences Dept., Stanford University, USA
 
 
 # The tags listed as entries in the sidebar
@@ -49,15 +49,19 @@ author:
   about:             |
     Hi, I am Yann!
 
-    I am currently doing a PhD on imaging genetics in the Neurocomputing lab (UNATI) at [Neurospin](http://i2bm.cea.fr/drf/i2bm/english/Pages/NeuroSpin/Presentation.aspx), [CEA](http://www-centre-saclay.cea.fr/en) part of the newly established [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en).
+    I defended my [PhD thesis](http://www.theses.fr/2018SACLS268) on the 24th September 2018. I worked in the Neurocomputing lab (UNATI) at [Neurospin](http://i2bm.cea.fr/drf/i2bm/english/Pages/NeuroSpin/Presentation.aspx)-[CEA](http://www-centre-saclay.cea.fr/en) part of the newly established [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en).
 
-    The title of my [thesis](http://www.theses.fr/s141437) is "An imaging-genetic study of the asymmetries in the temporal lobe structures: association of these human-specific markers of developments with genetics", following a recent PNAS publication of Leroy et al (2015) [New human-specific brain landmark: The depth asymmetry of superior temporal sulcus](http://www.pnas.org/content/112/4/1208.full).
+    The title of my thesis was "An imaging-genetic study of the asymmetries in the temporal lobe structures: association of these human-specific markers of developments with genetics", following a recent PNAS publication of Leroy et al (2015) [New human-specific brain landmark: The depth asymmetry of superior temporal sulcus](http://www.pnas.org/content/112/4/1208.full).
 
-    I am supervised by [Vincent Frouin](https://www.researchgate.net/profile/Vincent_Frouin) and [Ghislaine Dehaene-Lambertz](https://scholar.google.com/citations?user=hB-2od0AAAAJ).
+    I was supervised by [Vincent Frouin](https://www.researchgate.net/profile/Vincent_Frouin) and [Ghislaine Dehaene-Lambertz](https://scholar.google.com/citations?user=hB-2od0AAAAJ).
 
     Recent journal papers:
 
-    [The chaotic morphology of the left superior temporal sulcus is genetically constrained](https://authors.elsevier.com/a/1WooM3lc~r3Ere), 2018, Neuroimage
+    [eQTL of KCNK2 regionally influences the brain sulcal widening: evidence from 15,597 UK Biobank participants with neuroimaging data](https://doi.org/10.1007/s00429-018-1808-9), 2018, Brain Structure and Function
+
+    [Shared genetic aetiology between cognitive performance and brain activations in language and math tasks](https://doi.org/10.1038/s41598-018-35665-0), 2018, Scientific Reports
+
+    [The chaotic morphology of the left superior temporal sulcus is genetically constrained](https://doi.org/10.1016/j.neuroimage.2018.03.046), 2018, Neuroimage
     
     [Genetic Influence on the Sulcal Pits: On the Origin of the First Cortical Folds](https://doi.org/10.1093/cercor/bhx098), 2017, Cerebral Cortex
     

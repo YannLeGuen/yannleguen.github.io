@@ -12,4 +12,4 @@ order: 3
 {% endcomment %}
 {% include about-short.html author=site.author %}
 
-Yann - 3<sup>rd</sup> year Phd Student at Neurospin - yann.leguen at cea.fr
+Yann - Postdoctoral Research Fellow at Stanford - yleguen at stanford.edu
