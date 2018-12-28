@@ -10,12 +10,15 @@ order: 2
 List of my publications by year:
 
 2018
+* Brain Structure and Function, Published online: December 5, 2018, [eQTL of KCNK2 regionally influences the brain sulcal widening: evidence from 15,597 UK Biobank participants with neuroimaging data](https://doi.org/10.1007/s00429-018-1808-9), Yann Le Guen, Cathy Philippe, Denis Riviere, Hervé Lemaitre, Antoine Grigis, Clara Fischer, Ghislaine Dehaene-Lambertz, Jean-François Mangin, Vincent Frouin [[pdf]](https://rdcu.be/bcFJr)
+* Scientific Reports, Published online: December 4, 2018, [Shared genetic aetiology between cognitive performance and brain activations in language and math tasks](https://doi.org/10.1038/s41598-018-35665-0), Yann Le Guen, Marie Amalric, Philippe Pinel, Christophe Pallier, Vincent Frouin [[pdf]](https://rdcu.be/bcqkL)
+* Neuroinformatics, Published online: June 15, 2018, [PyPNS: Multiscale Simulation of a Peripheral Nerve in Python](https://doi.org/10.1007/s12021-018-9383-z), Carl Lubba, Yann Le Guen, Sarah Jarvis, Nick Jones, Simon Cork, Amir Eftekhar, Simon R Schultz [[pdf]](https://link.springer.com/content/pdf/10.1007%2Fs12021-018-9383-z.pdf)
 * Neuroimage, Published online: March 21, 2018, [The chaotic morphology of the left superior temporal sulcus is genetically constrained](https://doi.org/10.1016/j.neuroimage.2018.03.046), Yann Le Guen, François Leroy, Guillaume Auzias, Denis Riviere, Antoine Grigis, Jean-François Mangin, Olivier Coulon, Ghislaine Dehaene-Lambertz, Vincent Frouin [[pdf]](/public/pdf/Le Guen et al. - 2018 - The chaotic morphology of the left superior temporal sulcus is genetically constrained.pdf)
 
 2017:
 * Cerebral Cortex, Published online: April 21, 2017, [Genetic Influence on the Sulcal Pits: On the Origin of the First Cortical Folds](https://doi.org/10.1093/cercor/bhx098), Yann Le Guen, Guillaume Auzias, François Leroy, Marion Noulhiane, Ghislaine Dehaene-Lambertz, Edouard Duchesnay, Jean-François Mangin, Olivier Coulon, Vincent Frouin. [[pdf]](/public/pdf/Le Guen et al. - 2017 - Genetic Influence on the Sulcal Pits On the Origin of the First Cortical Folds.pdf)
 * ISBI 2017, IEEE 4-pages article [Regional Study of the Genetic Influence on the Sulcal Pits](/public/pdf/PaperISBI_2017.pdf), Yann Le Guen, Guillaume Auzias, Ghislaine Dehaene-Lambertz, François Leroy, Jean-François Mangin, Edouard Duchesnay, Olivier Coulon, Vincent Frouin. [[poster]](/public/pdf/PosterISBI_2017.pdf) [[pdf]](/public/pdf/PaperISBI_2017.pdf)
-* bioRxiv, Published online: September 30, 2017, [Multiscale simulation of peripheral neural signaling](https://www.biorxiv.org/content/early/2017/09/30/196451), Carl Lubba, Yann Le Guen, Sarah Jarvis, Nick Jones, Simon Cork, Amir Eftekhar, Simon R Schultz [[pdf]](/public/pdf/Lubba et al. - 2017 - Multiscale simulation of peripheral neural signaling.pdf)
+
 
 
 2016:
